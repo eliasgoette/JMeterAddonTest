@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cddc53-566a-4708-97e8-a7c3abb229a2" name="Changes" comment="Created test sampler plugin from tutorial">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSampler.java" afterDir="false" />
+    <list default="true" id="d8cddc53-566a-4708-97e8-a7c3abb229a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JMeterAddonTest_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/elias.goette/IdeaProjects/JMeterAddonTest",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713367384020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed Strings import because of build error">
+      <option name="closed" value="true" />
+      <created>1713367521243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713367521244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created test sampler plugin from tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created test sampler plugin from tutorial" />
+    <MESSAGE value="Removed Strings import because of build error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Strings import because of build error" />
   </component>
 </project>
