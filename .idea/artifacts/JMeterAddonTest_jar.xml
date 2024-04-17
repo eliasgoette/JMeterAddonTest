@@ -3,6 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/JMeterAddonTest_jar</output-path>
     <root id="archive" name="JMeterAddonTest.jar">
       <element id="module-output" name="JMeterAddonTest" />
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/META-INF" />
+      </element>
     </root>
   </artifact>
 </component>

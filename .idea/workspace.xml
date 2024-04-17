@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cddc53-566a-4708-97e8-a7c3abb229a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JMeterAddonTest_jar.xml" afterDir="false" />
+    <list default="true" id="d8cddc53-566a-4708-97e8-a7c3abb229a2" name="Changes" comment="New build">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JMeterAddonTest_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JMeterAddonTest_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eliasgoette&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eliasgoette/JMeterAddonTest.git&quot;,
+    &quot;accountId&quot;: &quot;e4a50d03-ad75-4aa5-9ed7-1fe9a070cf09&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -40,7 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/elias.goette/IdeaProjects/JMeterAddonTest",
+    "last_opened_file_path": "C:/Users/elias.goette/IdeaProjects/JMeterAddonTest/META-INF",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -72,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713367521244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New build">
+      <option name="closed" value="true" />
+      <created>1713369929703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713369929703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created test sampler plugin from tutorial" />
     <MESSAGE value="Removed Strings import because of build error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Strings import because of build error" />
+    <MESSAGE value="New build" />
+    <option name="LAST_COMMIT_MESSAGE" value="New build" />
   </component>
 </project>

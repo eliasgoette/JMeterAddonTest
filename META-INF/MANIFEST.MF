@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-License: Apache-2.0
+Specification-Title: My Test Addon
+Specification-Vendor: E. Goette
+Implementation-Vendor: E. Goette
+Implementation-Vendor-Id: org.example
+Implementation-Version: 5.6.3
+JMeter-Skip-Class-Scanning: true
