@@ -1,6 +1,5 @@
 package org.example;
 
-import jdk.internal.joptsimple.internal.Strings;
 import org.apache.jmeter.samplers.AbstractSampler;
 import org.apache.jmeter.samplers.Entry;
 import org.apache.jmeter.samplers.SampleResult;
@@ -25,7 +24,7 @@ public class TestSampler extends AbstractSampler {
     }
 
     public String getLabel() {
-        return getPropertyAsString(LABEL, Strings.EMPTY);
+        return getPropertyAsString(LABEL, "");
     }
 
     public void setResponseCode(String responseCode) {
